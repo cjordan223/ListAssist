@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">List Assist</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="the_list_assist">The List Assist</string>
+    <string name="that_persist_amidst_the_abyss">That persist amidst the abyss!</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="no_users">No Users!</string>
+    <string name="login">Login</string>
+    <string name="adminLogin">admin2</string>
+    <string name="add_user">Add User</string>
+    <string name="admin_power">Admin Power</string>
+    <string name="delete_user">Delete User</string>
+    <string name="welcome_admin">Welcome Admin</string>
+</resources>
